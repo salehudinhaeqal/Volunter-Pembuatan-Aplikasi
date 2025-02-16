@@ -1,4 +1,4 @@
-# Volunter Pembuatan Aplikasi
+# Volunteer Pembuatan Aplikasi
 Repository ini digunakan sebagai sayembara pencarian volunteer untuk pembuatan aplikasi[Lunatic][www.Lunatic.com]<br>
 Jika Anda tertarik untuk menjadi Volunteer, silakan lakukan PR(pull-request) pada berkas ini ya.<br>
 
